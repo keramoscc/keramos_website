@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>keramos.cc</title>
+    <link>https://example.org/</link>
+    <description>Recent content on keramos.cc</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://example.org/keramos-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/keramos-home/</guid>
+      <description>&lt;h2 class=&#34;font-header&#34; id=&#34;who-we-are&#34;&gt;Who we are&lt;/h2&gt;&#xA;&lt;div class=&#34;image-text-section&#34;&gt;&#xA;  &lt;div class=&#34;image-left&#34;&gt;&#xA;    &lt;p&gt;Industrial production has improved life for many: appliances, electronics, cars, plumbing. We want things to be better, not worse. The contemporary built environment is bleak. Why go backward in this way? When the promise of industrial technology is so magical, why settle for so little?&lt;/p&gt;&#xA;    &lt;img src=&#34;https://example.org/images/3870.jpg&#34; alt=&#34;Example Image 1&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;image-text-section&#34;&gt;&#xA;  &lt;div class=&#34;image-right&#34;&gt;&#xA;    &lt;p&gt;We believe that novel industrial techniques can furnish the materials necessary for an aesthetic revolution in building. We believe that the beauty enjoyed by past generations can be equalled and surpassed. We will meet the technical, industrial, and logistical challenges to bring builders an abundance of ornamental masonry for their art at surprisingly low cost.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
